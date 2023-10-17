@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Iliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=IBozova&theme=ayu-mirage&show_icons=true)
+
 <!--
 **IBozova/IBozova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
